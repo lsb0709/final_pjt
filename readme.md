@@ -115,7 +115,7 @@
 ## 🔥 Issues
 
 <details>
-  <summary>[accounts 이슈] missing ), unterminated subpattern at position 3</summary>
+  <summary></summary>
   <div markdown="1">
     <br>❌ 에러 사항<br>
     <br><br>
@@ -128,7 +128,7 @@
 </details>
 
 <details>
-  <summary>[AWS 이슈] Incorrect application version found on all instances</summary>
+  <summary></summary>
   <div markdown="1">
     <br>❌ 에러 사항<br>
     <br><br>
@@ -139,7 +139,7 @@
 </details>
 
 <details>
-  <summary>[AWS 이슈] Server Error 500</summary>
+  <summary></summary>
   <div markdown="1">
     <br>❌ 에러 사항<br>
     <br><br>
