@@ -21,13 +21,12 @@
 
 - 산책메이트
 
-- [dogwalking-1.gif.zip](https://github.com/lsb0709/final_pjt/files/10335415/dogwalking-1.gif.zip)
+- ![dogwalking-1](https://user-images.githubusercontent.com/108773387/210330798-de7c344e-4e2e-45aa-968b-96dad8703522.gif)
+
 
 - 돌봄
 
-- [care-1.gif.zip](https://github.com/lsb0709/final_pjt/files/10335419/care-1.gif.zip)
-
-
+- ![care-1](https://user-images.githubusercontent.com/108773387/210331037-e37fdf62-795b-4085-8e0d-3049457f9a56.gif)
 
 - 지도
 
