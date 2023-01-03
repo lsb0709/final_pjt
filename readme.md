@@ -11,35 +11,29 @@
 
 
 ## 🏆 award
-
-- 사진추가예정
-
-
+- ![IMG_0141-1196370](https://user-images.githubusercontent.com/108773387/210327917-d5285600-9e8b-462e-9a9e-60f770914768.jpg)
 
 ## 🫧 Preview
 
 - 커뮤니티
 
-- 사진추가예정
+- ![Uploading community-1.gif…]()
 
 - 산책메이트
 
-- 사진추가예정
+- ![Uploading dogwalking-1.gif…]()
 
 - 돌봄
 
-- 사진추가예정
+- ![Uploading care-1.gif…]()
 
 - 지도
 
-- 사진추가예정
+- ![information-1](https://user-images.githubusercontent.com/108773387/210328574-7bd6a19c-0565-4653-9e51-b36ee37b245b.gif)
 
 - 일기
 
-- 사진추가예정
-
-
-
+- ![journal](https://user-images.githubusercontent.com/108773387/210328903-d759dd18-0232-484c-beb9-f6f234628e95.gif)
 
 
 ## 📈 purpose
