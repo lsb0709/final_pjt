@@ -17,15 +17,17 @@
 
 - 커뮤니티
 
-- ![Uploading community-1.gif…]()
+- ![community-1](https://user-images.githubusercontent.com/108773387/210329099-cb3233fb-b1b7-4995-9cf1-e1f766e77997.gif)
 
 - 산책메이트
 
-- ![Uploading dogwalking-1.gif…]()
+- [dogwalking-1.gif.zip](https://github.com/lsb0709/final_pjt/files/10335415/dogwalking-1.gif.zip)
 
 - 돌봄
 
-- ![Uploading care-1.gif…]()
+- [care-1.gif.zip](https://github.com/lsb0709/final_pjt/files/10335419/care-1.gif.zip)
+
+
 
 - 지도
 
